@@ -5,7 +5,8 @@ author:
   affiliation: UCL
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
-  html_document:
+  bookdown::html_document2:
+    figure_caption: yes
     code_folding: show
     theme: paper
     highlight: kate
