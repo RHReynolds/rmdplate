@@ -1,0 +1,18 @@
+Package: rmdplate
+Title: Rmd template
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Regina",
+           family = "Reynolds",
+           role = c("aut", "cre"),
+           email = "regina.reynolds.16@ucl.ac.uk")
+Description: Templates for personal use.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr,
+    ggplot2,
+    ggpubr

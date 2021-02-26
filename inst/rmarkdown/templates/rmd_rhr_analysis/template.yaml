@@ -1,0 +1,4 @@
+name: rmd_rhr_analysis
+description: >
+   Rmd template for analysis.
+create_dir: FALSE
