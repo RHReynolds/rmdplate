@@ -1,0 +1,4 @@
+name: readme_analysis
+description: >
+   Template for .rmd README that can be used as a landing site for analysis projects.
+create_dir: FALSE
