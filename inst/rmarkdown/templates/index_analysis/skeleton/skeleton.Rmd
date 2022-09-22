@@ -1,0 +1,24 @@
+---
+output: github_document
+---
+
+<!-- index.md is generated from index.rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  out.width = "100%"
+)
+```
+
+# Contents
+
+<!-- Replace links with appropriate analysis .htmls below. They will need to be in the same folder as index.md (i.e. the docs/ directory). -->
+
+
+| No. | Title | Description |
+| --- | --- | --- | 
+| 00 | [Title of analysis 00](00_analysis.html) | Brief description of analysis 00 |
+| 01 | [Title of analysis 01](01_analysis.html) | Brief description of analysis 01 |
+| 99 | [Title of analysis 99](99_analysis.html) | Brief description of analysis 99 |
