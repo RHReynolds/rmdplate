@@ -85,7 +85,16 @@ iris_10 %>%
 
 <br><br>
 
+# Conclusions
+What are the conclusions to be drawn from this analysis?
+
+# Next steps
+What are the next steps after this?
+
 # Session info
+
+<details>
+  <summary>Show/hide</summary>
 
 ```{r reproducibility, echo = FALSE}
 # Session info
@@ -93,3 +102,5 @@ library("sessioninfo")
 options(width = 120)
 session_info()
 ```
+
+</details> 
