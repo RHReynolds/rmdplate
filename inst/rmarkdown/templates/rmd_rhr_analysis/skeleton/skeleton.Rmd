@@ -18,6 +18,7 @@ output:
 
 ```{r setup, include = FALSE}
 
+library(here) # For project-specific paths
 library(ggplot2) # For plotting
 library(tidyverse) # For tidy manipulation of data
 library(stringr) # For string manipulation
