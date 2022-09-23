@@ -1,4 +1,4 @@
-name: index_analysis
+name: rhr_proj_index
 description: >
    Template for index that can be used as a landing page for github pages. Should be stored in the '/docs' directory, from which github pages can be launched.
 create_dir: FALSE

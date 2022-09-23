@@ -1,4 +1,4 @@
-name: readme_analysis
+name: rhr_proj_readme
 description: >
    Template for .rmd README that can be used as a landing site for analysis projects on github.com.
 create_dir: FALSE
