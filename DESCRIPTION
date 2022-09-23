@@ -17,4 +17,5 @@ BugReports: https://github.com/RHReynolds/rmdplate/issues
 Imports: 
     magrittr,
     ggplot2,
-    ggpubr
+    ggpubr,
+    here
