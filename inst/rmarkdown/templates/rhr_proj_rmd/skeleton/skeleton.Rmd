@@ -2,7 +2,7 @@
 title: "Title"
 author: 
 - name: "Regina H. Reynolds"
-  affiliation: UCL
+  affiliation: 
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   bookdown::html_document2:
